@@ -1,0 +1,2 @@
+c:\Users\Admin\Downloads\kdd_air_quality_scaler.pkl
+c:\Users\Admin\Downloads\kdd_air_quality_targets.pkl
